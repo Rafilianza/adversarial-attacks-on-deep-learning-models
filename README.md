@@ -15,5 +15,5 @@ PGD Attacks
 <b>Accuracy: 71%</b> <i>(Correctly classified)</i>
 
 **After**  
-<img src="assets/limit_200.png" width="250" alt="Adversarial Traffic Sign"> predicted as<br>
+<img src="assets/limit_200.png" width="250" alt="Adversarial Traffic Sign"> predicted as <img src="assets/limit_100" width="250" alt="Adversarial Traffic Sign"> <br>
 <b>Predicted as 100km/h Speed Limit 99% of the time</b> <i>(Actually a 20 k/h)</i>
