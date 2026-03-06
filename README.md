@@ -11,16 +11,20 @@ PGD Attacks
 
 <div align="center">
 
-### 🟢 Before
+### Before
 <img src="assets/limit_200.png" width="250" alt="Original Traffic Sign">  
 <br>
 <b>Accuracy: 71%</b> <br> <i>(Correctly classified)</i>
 
 <br><hr><br>
 
-### 🔴 After
-<img src="assets/limit_200.png" width="250" alt="Adversarial Traffic Sign"> &nbsp;&nbsp; ➡️ &nbsp;&nbsp; <img src="assets/limit_100.png" width="250" alt="100 km/h Sign">
-<br>
-<b>Predicted as 100 km/h Speed Limit 99% of the time</b> <br> <i>(Actually a 20 km/h sign)</i>
+### After (Adversarial Attack)
+
+<img src="assets/limit_200.png" width="250" align="middle" alt="Adversarial Traffic Sign"> 
+&nbsp;&nbsp;&nbsp; <b><font size="7">➔</font></b> &nbsp;&nbsp;&nbsp; 
+<img src="assets/limit_100.png" width="250" align="middle" alt="100 km/h Sign">
+
+<br><br>
+<b>Predicted as 100 km/h Speed Limit (99% confidence)</b> <br> <i>(Actually a 20 km/h sign)</i>
 
 </div>
