@@ -12,4 +12,4 @@ PGD Attacks
 **Before** 
 
 <img src="assets/limit_200.png" width="250" alt="Original Traffic Sign">  
-**Accuracy: 80 %** *(Correctly classified)*
+<b>Accuracy: 80%</b> <i>(Correctly classified)</i>
