@@ -6,3 +6,8 @@ Resnet 18
 
 ## Adversarial Method Used
 PGD Attacks
+
+## Attack Results
+
+**Before** <img src="assets/limit_200.png" width="250" alt="Original Traffic Sign">  
+**Accuracy: 80%** *(Correctly classified)*
