@@ -7,13 +7,20 @@ Resnet 18
 ## Adversarial Method Used
 PGD Attacks
 
-## Attack Results
+##  Attack Results
 
-**Before** 
+<div align="center">
 
+### 🟢 Before
 <img src="assets/limit_200.png" width="250" alt="Original Traffic Sign">  
-<b>Accuracy: 71%</b> <i>(Correctly classified)</i>
+<br>
+<b>Accuracy: 71%</b> <br> <i>(Correctly classified)</i>
 
-**After**  
-<img src="assets/limit_200.png" width="250" alt="Adversarial Traffic Sign"> predicted as <img src="assets/limit_100" width="250" alt="Adversarial Traffic Sign"> <br>
-<b>Predicted as 100km/h Speed Limit 99% of the time</b> <i>(Actually a 20 k/h)</i>
+<br><hr><br>
+
+### 🔴 After
+<img src="assets/limit_200.png" width="250" alt="Adversarial Traffic Sign"> &nbsp;&nbsp; ➡️ &nbsp;&nbsp; <img src="assets/limit_100.png" width="250" alt="100 km/h Sign">
+<br>
+<b>Predicted as 100 km/h Speed Limit 99% of the time</b> <br> <i>(Actually a 20 km/h sign)</i>
+
+</div>
