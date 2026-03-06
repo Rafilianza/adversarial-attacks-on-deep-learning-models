@@ -14,6 +14,6 @@ PGD Attacks
 <img src="assets/limit_200.png" width="250" alt="Original Traffic Sign">  
 <b>Accuracy: 80%</b> <i>(Correctly classified)</i>
 
-**Before**  
+**After**  
 <img src="assets/limit_200.png" width="250" alt="Adversarial Traffic Sign"><br>
 <b>⟶ Predicted as Original 76% of the time</b> <i>(Actually a Stop sign)</i>
